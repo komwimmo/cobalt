@@ -1,901 +1,821 @@
 # AI Builders Digest 今日热点快报
 
-*报告生成时间：2026年07月05日19时02分30秒*
+*报告生成时间：2026年07月13日00时44分37秒*
 
 ---
 
 ## 一、国内时政
 
-### 美国拟进一步紧缩对华芯片出口限制，阿斯麦CEO直言实际反将削弱西方自身
+### 哈啰回应“全面失控”报道：目前经营、纳税、用工和城市运营均保持正常，已就不实信息向有关主管部门举报
 
-来源：<code>www.blog.qovfm.cn/Article/details/1863750.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/2921.shtml</code>
 
-### 2028年和2032年欧洲杯足球赛主办城市正式揭晓
+### 余承东谈享界G9：比豪华更硬派，比硬派更豪华
 
-来源：<code>www.blog.qovfm.cn/Article/details/24780.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/1653037.shtml</code>
 
-### 英国航母欲向俄秀肌肉，却曝出严重技术隐患
+### 崔泰源天价离婚案将于7月宣判 SK海力士等股暴涨后集团控制权料已无虞
 
-来源：<code>www.blog.qovfm.cn/Article/details/59065.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/59285.shtml</code>
 
-### 菲武装部队总参谋长表态：未与台当局有军事接触，未来也不合作
+### 本届世界杯首次因天气推迟比赛，墨西哥2：0击败厄瓜多尔晋级16强
 
-来源：<code>www.blog.qovfm.cn/Article/details/989664.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/3041706.shtml</code>
 
-### 也门胡塞武装宣称在红海对两艘美舰发动袭击
+### 宇树科技：单款人形机器人累计生产下线约11000台
 
-来源：<code>www.blog.qovfm.cn/Article/details/7098069.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/0420285.shtml</code>
 
-### 俄军方宣布收复乌军去年反攻的重要据点
+### Steam 2026 年 5 月软硬件报告出炉：RTX 3060 登上显卡榜榜首、1080P 显示器仍是主流
 
-来源：<code>www.blog.qovfm.cn/Article/details/9872.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/1496.shtml</code>
 
-### 朝鲜宣布关闭驻安哥拉大使馆
+### 欧盟法院支持Meta挑战Marketplace“守门人”标签 但驳回Messenger相关异议
 
-来源：<code>www.blog.qovfm.cn/Article/details/274031.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/1176.shtml</code>
 
-### 北约与俄展开“核博弈”军演威慑，背后传递何种信号？
+### 特斯拉本土化语音交互升级进入落地阶段，车机将 OTA 接入豆包大模型
 
-来源：<code>www.blog.qovfm.cn/Article/details/2006.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/78472.shtml</code>
 
-### 以军称31名人质在加沙遇难，正进一步核查其余被扣人员情况
+### MiniMax M3接入支付宝Token Pay
 
-来源：<code>www.blog.qovfm.cn/Article/details/6015611.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/2430.shtml</code>
 
-### 俄护卫舰驶近美国海岸，计划本月访问古巴
+### 台积电董事长魏哲家：客户持续看好人工智能行业发展前景，公司对未来充满信心
 
-来源：<code>www.blog.qovfm.cn/Article/details/458058.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/208009.shtml</code>
 
-### 金正恩呼吁在宪法中将韩国列为“首要敌国
+### 逆矩阵获超亿美元种子++轮融资，蚂蚁集团战略投资
 
-来源：<code>www.blog.qovfm.cn/Article/details/416736.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/874052.shtml</code>
 
-### 拜登团队称特朗普为“重罪犯”，外媒解读案件后续走向
+### 独家|原华为盘古“90后少帅”离职创业，新公司已获1亿美元估值新融资
 
-来源：<code>www.blog.qovfm.cn/Article/details/0955.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/409173.shtml</code>
 
-### 美总统大选竞选阶段正式启动，关键时间节点有哪些？
+### 三星首款阔折叠Galaxy Z Fold8定档7月：对标华为Pura X Max
 
-来源：<code>www.blog.qovfm.cn/Article/details/351515.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/9346657.shtml</code>
 
-### 俄军扩编17万至132万人，美方作出回应
+### 前员工回应举报小红书动机：无端遭受职场恶意打压，维权是为求公道非物质赔偿
 
-来源：<code>www.blog.qovfm.cn/Article/details/344009.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/1934.shtml</code>
 
-### 缅北、印巴、中东多地交火，一句话点评足矣！
+### 余承东：盘古大模型是大模型先驱 会从中国第一走向世界第一
 
-来源：<code>www.blog.qovfm.cn/Article/details/84827.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/36041.shtml</code>
 
-### 北约将举行冷战后最大规模军演，意欲何为？
+### 神基推出全强固 WoA 工业平板电脑 ZX80W 系列，基于高通 QCS6490
 
-来源：<code>www.blog.qovfm.cn/Article/details/6320303.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/734082.shtml</code>
 
-### 日本2023年生育率跌至1.2，创历史新低
+### 11家AI押中哥伦比亚！真正猜中1：0的人，还是人类
 
-来源：<code>www.blog.qovfm.cn/Article/details/3732065.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/9584.shtml</code>
 
-### 俄“联盟MS-25”飞船升空，搭载三名宇航员包括一名美国人
+### 陈天桥：别用最宝贵的20年，把孩子训成“人形 API”
 
-来源：<code>www.blog.qovfm.cn/Article/details/351803.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/9238839.shtml</code>
 
-### 阿根廷15名议员质问米莱：为何不加入金砖？
+### SpaceX盘前股价上涨 势将延续创纪录IPO后的涨势
 
-来源：<code>www.blog.qovfm.cn/Article/details/68825.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/89120.shtml</code>
 
-### 加拿大魁北克省公共服务部门罢工规模扩至57万人
+### 中国移动抗 DDoS 设备集采公示，华为中标 50% 以上成最大赢家
 
-来源：<code>www.blog.qovfm.cn/Article/details/0822083.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/10387.shtml</code>
 
-### 印度央行遭炸弹威胁邮件
+### 小红书、抖音被指存在非法炒汇信息，小红书回应：已展开专项治理
 
-来源：<code>www.blog.qovfm.cn/Article/details/7428438.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/4310445.shtml</code>
 
-### 美媒称他将辞职，象征美国政治一个时代落幕
+### 鸿蒙智行问界M6纯电新版本明日实车首秀：取消车顶激光雷达
 
-来源：<code>www.blog.qovfm.cn/Article/details/4737478.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/045805.shtml</code>
 
-### 德国交通部拟推“周末禁驾令”，禁止周末开车
+### 到手价 209 元，大疆首款高效能氮化镓快充充电器 POWER 140W 发布
 
-来源：<code>www.blog.qovfm.cn/Article/details/010479.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/3942313.shtml</code>
 
-### 黎巴嫩真主党称两次袭击以北部一军事基地
+### 长征十号乙首飞锁定 7 月 10 日至 7 月 13 日期间，验证首创的“海上网系回收”技术
 
-来源：<code>www.blog.qovfm.cn/Article/details/30355.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/3950329.shtml</code>
 
-### 伊朗官员称将对以任何敌对行动予以适当回应
+### 美团发布LongCat-2.0大模型：总参数规模1.6万亿，全程由国产算力训练
 
-来源：<code>www.blog.qovfm.cn/Article/details/2686.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/91861.shtml</code>
 
-### 拜登称有理由相信以总理为政治利益拖延加沙战事
+### 淘宝闪购：坚决拥护国家规范外卖平台补贴行为
 
-来源：<code>www.blog.qovfm.cn/Article/details/158151.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/9299456.shtml</code>
 
-### 五国请求国际刑事法院介入调查巴勒斯坦局势
+### 赛豆科技品牌发布会定档 6 月 9 日举行，消息称首款车型预计今年内推出
 
-来源：<code>www.blog.qovfm.cn/Article/details/30705.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/6775.shtml</code>
 
-### 被约旦逼平后，韩国队也面临出线算分难题
+### 鸿蒙智行 6 月零售细分车型销量曝光：问界依旧第一，尚界跃升至“五界”第二
 
-来源：<code>www.blog.qovfm.cn/Article/details/741071.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/9789.shtml</code>
 
-### 哈马斯官员称将“很快”答复停火方案，并指责以方不尊重协议
+### 分析显示美国约三分之二拟建数据中心选址干旱区，加剧用水危机
 
-来源：<code>www.blog.qovfm.cn/Article/details/365287.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/1049.shtml</code>
 
-### 土耳其国防部称24小时内击毙57名恐怖分子
+### 阿根廷让二追三绝杀埃及！梅西传射封神，联想AI见证经典名局
 
-来源：<code>www.blog.qovfm.cn/Article/details/0328907.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/9594526.shtml</code>
 
-### 澳电信巨头CEO因千万用户断网12小时辞职
+### 喜茶泰国官方账号注册，确认将进入泰国
 
-来源：<code>www.blog.qovfm.cn/Article/details/628158.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/514268.shtml</code>
 
-### 联合国开发计划署驻加沙办公室遭炮击
+### 豆包手机硬件负责人林夕离职 曾打造华为年销150万台爆款机型
 
-来源：<code>www.blog.qovfm.cn/Article/details/401783.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/300797.shtml</code>
 
-### 日元对美元汇率跌破160，再创34年新低
+### 胜宏科技“桃色事件”女主开播互动，豪收“万元”火箭打赏
 
-来源：<code>www.blog.qovfm.cn/Article/details/823914.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/04444.shtml</code>
 
-### 马克龙倡建国际联盟打击哈马斯，扎哈罗娃发出警告
+### 上市进入倒计时，消息称 SpaceX IPO 已吸引超 700 亿美元散户订单
 
-来源：<code>www.blog.qovfm.cn/Article/details/0028875.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/18648.shtml</code>
 
-### 纳指连续八日收涨，创近两年最长连升纪录
+### 美国监管机构向 Meta 施压，要求其同意接受 AI 安全审查
 
-来源：<code>www.blog.qovfm.cn/Article/details/89282.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/563506.shtml</code>
 
-### 土耳其空袭伊拉克北部，摧毁17处库尔德武装目标
+### 雷军回应“与董明珠打赌被批评”：玩笑开的确实不妥
 
-来源：<code>www.blog.qovfm.cn/Article/details/06684.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/9447849.shtml</code>
 
-### 外媒称教皇方济各建议乌克兰有“举白旗勇气”和谈结束战争
+### 特朗普期待周日签署协议 但伊朗方面据称仍在审查文本
 
-来源：<code>www.blog.qovfm.cn/Article/details/8631244.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/9271313.shtml</code>
 
-### 德约科维奇日内瓦赛爆冷出局，法网前状态引担忧
+### 宝马停产所有国产纯电车型？相关人士回应：并非退出国产纯电市场，全力铺垫BMW新世代车型国产落地工作
 
-来源：<code>www.blog.qovfm.cn/Article/details/5732.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/5232798.shtml</code>
 
-### 外媒对中国经济评述分歧明显，外交部回应
+### 消息称腾讯考虑入股 Manus，或成为其第一大股东
 
-来源：<code>www.blog.qovfm.cn/Article/details/69082.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/619565.shtml</code>
 
-### 美财长称中国对优先产业补贴力度全球最大，外交部予以驳斥
+### 曝腾讯将放弃多家日本游戏工作室投资！真不如国产赚钱？
 
-来源：<code>www.blog.qovfm.cn/Article/details/063736.sHtML</code>
-
-### 东盟峰会聚焦“增长中心”，印尼前外长对拜登缺席表示失望
-
-来源：<code>www.blog.qovfm.cn/Article/details/5670.sHtML</code>
-
-### 哈兰德伤缺，C罗年度53球提前锁定射手王
-
-来源：<code>www.blog.qovfm.cn/Article/details/7118.sHtML</code>
-
-### 日本北海道发生6.4级地震
-
-来源：<code>www.blog.qovfm.cn/Article/details/7530.sHtML</code>
-
-### 不愿受美控制的国家自行组团
-
-来源：<code>www.blog.qovfm.cn/Article/details/6069954.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/7016940.shtml</code>
 
 ## 二、民生社会
 
-### 以总理拒绝联大决议：不会允许巴勒斯坦建国
+### TP-Link深圳大量裁员 转签遭员工抵制背后：昔日中国路由器霸主已被华为、小米击落
 
-来源：<code>www.blog.qovfm.cn/Article/details/7772765.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/7441996.shtml</code>
 
-### 巴以冲突持续，以女主播直播中腰间别枪引网友热议
+### 920 亿参数，华为 openPangu-2.0-Flash 模型正式开源上线
 
-来源：<code>www.blog.qovfm.cn/Article/details/64708.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/707972.shtml</code>
 
-### 一客机在阿富汗巴达赫尚省坠毁
+### 美团Tabbit开始算AI浏览器的成本账
 
-来源：<code>www.blog.qovfm.cn/Article/details/6986236.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/5337.shtml</code>
 
-### 英国利物浦市中心一4层建筑起火并有倒塌风险
+### 得物与微信就AI Agent达成重要合作
 
-来源：<code>www.blog.qovfm.cn/Article/details/0910049.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/208313.shtml</code>
 
-### 美情报机构承认纳瓦利内之死或与普京无直接关联
+### 到现在还有人不相信华为韬定律：博主称9月麒麟2026上市会让一切都有闭环
 
-来源：<code>www.blog.qovfm.cn/Article/details/562232.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/03308.shtml</code>
 
-### 荷兰跨年夜多地骚乱，逾200人被捕、数十名警察受伤
+### 小米机器人亮相小米17T系列发布会，可操作手机拍照
 
-来源：<code>www.blog.qovfm.cn/Article/details/75734.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/13790.shtml</code>
 
-### 现役美军中有78人涉嫌参与推翻美国政府相关活动
+### 量旋科技完成10亿元D轮融资，半年累计融资达20亿元
 
-来源：<code>www.blog.qovfm.cn/Article/details/49977.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/89255.shtml</code>
 
-### 俄副外长警告：美方若放宽援乌武器限制，恐酿成严重误判
+### 苹果macOS全新版本代号“Golden Gate”，多设计变化
 
-来源：<code>www.blog.qovfm.cn/Article/details/5549777.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/543169.shtml</code>
 
-### 美国和巴西就委内瑞拉与圭亚那之间的领土纠纷作出表态
+### 千问接入EMS，可实时追踪提醒高考录取通知书寄送进度
 
-来源：<code>www.blog.qovfm.cn/Article/details/60069.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/0168.shtml</code>
 
-### 以色列多地爆发抗议，要求以释放巴囚犯来换取被扣押人员
+### 盐言故事与听花岛IP合作升级，全年版权开发扩至数十部
 
-来源：<code>www.blog.qovfm.cn/Article/details/07394.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/890103.shtml</code>
 
-### 乌军兵源紧缺，正考虑大规模征召女兵入伍
+### 华硕ROG枪神10超竞版RTX5080版本开售，31999元起售
 
-来源：<code>www.blog.qovfm.cn/Article/details/6283625.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/89890.shtml</code>
 
-### 美知名主持人卡尔森称对采访普京一事“保持期待
+### 《恋与深空》发声明回应连日争议：致歉并澄清日期、文案、角色三大问题
 
-来源：<code>www.blog.qovfm.cn/Article/details/541617.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/59264.shtml</code>
 
-### 摩洛哥海军在西南海域拦截76名非法移民
+### 梁汝波发布全员邮件，字节跳动时隔4年更新领导力原则
 
-来源：<code>www.blog.qovfm.cn/Article/details/290277.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/1149482.shtml</code>
 
-### 韩国去年新生儿数量和生育率均跌至历史最低
+### 姆巴佩、哈兰德同日破门！法国挪威双双晋级16强，联想AI见证世界杯“双星时代”
 
-来源：<code>www.blog.qovfm.cn/Article/details/94492.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/0023.shtml</code>
 
-### 以军无人机空袭黎南部，导致一名真主党成员丧生
+### 消息称 SambaNova 融资 10 亿美元，将向摩根大通出货 AI ASIC
 
-来源：<code>www.blog.qovfm.cn/Article/details/207981.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/89176.shtml</code>
 
-### 伊拉克议会召开会议，讨论近期侵犯伊主权的袭击事件
+### 巨头大动作！CPU重回AI算力聚光灯下，本土厂商新机遇！
 
-来源：<code>www.blog.qovfm.cn/Article/details/6234084.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/2139.shtml</code>
 
-### 伊国家安全顾问称美军空袭无助于缓解当地紧张局势
+### AI如何交付可见价值？联想首提Token经济“三大定律”
 
-来源：<code>www.blog.qovfm.cn/Article/details/587254.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/75136.shtml</code>
 
-### 俄外长回应停火事宜：应先征求泽连斯基意见
+### 千元机市场遭受重创：华为畅享90 Pro Max逆势走红：销量第一
 
-来源：<code>www.blog.qovfm.cn/Article/details/808328.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/3700.shtml</code>
 
-### 涉嫌骗财骗色，“瑜伽大师”再次落网
+### NFC 版 147 元：华为手环 10 双重补贴后半价清仓（上市 299 元）
 
-来源：<code>www.blog.qovfm.cn/Article/details/23243.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/75525.shtml</code>
 
-### 三名伊朗将领身亡，德黑兰誓言对以色列进行报复
+### 美团：职伤保障累计缴费超30亿，参保骑手逾1000万
 
-来源：<code>www.blog.qovfm.cn/Article/details/99088.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/8177.shtml</code>
 
-### 大英图书馆遭黑客勒索，被要求支付60万英镑赎金
+### Steam主机官宣今夏上市：定价与valve原计划截然不同
 
-来源：<code>www.blog.qovfm.cn/Article/details/61305.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/83178.shtml</code>
 
-### 希腊多地点气温突破40度，数名游客徒步时中暑死亡——英媒
+### 不着急跟进韬定律！李楠详解台积电逻辑：现阶段先进制程回报率更高
 
-来源：<code>www.blog.qovfm.cn/Article/details/9186.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/627417.shtml</code>
 
-### ATP年终总决赛四强出炉，阿尔卡拉斯半决赛将战德约
+### 传阿里内部全面禁用Claude Code，官方暂无回应
 
-来源：<code>www.blog.qovfm.cn/Article/details/740179.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/8282729.shtml</code>
 
-### 喀麦隆前总理菲勒蒙·扬当选第79届联大主席
+### 英特尔：到 2030 年，x86 架构预计将为八成数据中心服务器提供动力
 
-来源：<code>www.blog.qovfm.cn/Article/details/68587.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/4797.shtml</code>
 
-### 美拟对俄实施新一轮大规模制裁，涉及500个目标
+### U2 正式亮相：原生可执行Agent大模型，云知声跳出参数竞赛
 
-来源：<code>www.blog.qovfm.cn/Article/details/9082.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/25864.shtml</code>
 
-### 韩执政党临时领导人因选举失利将引咎辞职
+### 知乎盐言故事两起网文盗版黑产案宣判
 
-来源：<code>www.blog.qovfm.cn/Article/details/233499.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/62500.shtml</code>
 
-### 西语传媒巨头环球电视网倒向特朗普，民主党感到焦虑
+### 坪山老豆 专治不服！
 
-来源：<code>www.blog.qovfm.cn/Article/details/770360.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/678704.shtml</code>
 
-### 印度大选结果揭晓，莫迪被指“虽胜犹败
+### 大众战略转向：首次考虑将中国研发车型引入欧洲进行生产，本土化适配已在推进中
 
-来源：<code>www.blog.qovfm.cn/Article/details/084716.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/42543.shtml</code>
 
-### 集安组织高层会议在白俄罗斯明斯克举行
+### 瞄准AI数据中心需求 磷化铟衬底巨头计划将产能扩大至多10倍
 
-来源：<code>www.blog.qovfm.cn/Article/details/0144313.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/969551.shtml</code>
 
-### 拜登发中秋祝福，愿每个家庭幸福富足
+### 杨元庆：联想技术支持FIFA世界杯 市场有目共睹
 
-来源：<code>www.blog.qovfm.cn/Article/details/2383.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/51645.shtml</code>
 
-### 胡塞武装称美英空袭也门荷台达地区
+### 日本散户大军蜂拥认购SpaceX股票
 
-来源：<code>www.blog.qovfm.cn/Article/details/9596.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/3225911.shtml</code>
 
-### 美天然气期货价格跌至近30年最低，触发限产措施
+### 消息称日月光调整先进封装报价，最高涨幅超 20%
 
-来源：<code>www.blog.qovfm.cn/Article/details/704312.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/122230.shtml</code>
 
-### 美说唱歌手获奖后旋即被警方逮捕
+### 摩根士丹利将向外部 AI 智能体开放其万亿美元规模资管业务接口
 
-来源：<code>www.blog.qovfm.cn/Article/details/9129652.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/88677.shtml</code>
 
-### 巴以冲突情绪蔓延全球，时报广场成另一战场？
+### 搞内容创作需配多大内存？Puget 实测 16/32/64GB 性能差异
 
-来源：<code>www.blog.qovfm.cn/Article/details/40509.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/898500.shtml</code>
 
-### 摩洛哥强震致死人数升至296人——外媒
+### 亚洲规模最大ACGN展会！BilibiliWorld三天吸引40万人次参展
 
-来源：<code>www.blog.qovfm.cn/Article/details/6889912.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/407601.shtml</code>
 
-### 特朗普竞选团队对是否入驻TikTok犹豫不决——美媒
+### 消息称华为 Pura X Max 横阔折手机销量突破 45 万台，典藏比普通版卖得好
 
-来源：<code>www.blog.qovfm.cn/Article/details/77152.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/61104.shtml</code>
 
-### 越南政坛动荡，富商重判，背后问题何在
+### 全新奥迪 A6L 汽车华为乾崑智驾功能价格公布：26800 元，限时优惠至高 6000 元
 
-来源：<code>www.blog.qovfm.cn/Article/details/21735.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/97858.shtml</code>
 
-### 韩国“DJ和尚”走红，马来西亚叫停其演出
+### 欧盟科技事务负责人：与苹果CEO进行了富有建设性的会谈
 
-来源：<code>www.blog.qovfm.cn/Article/details/13364.sHtML</code>
+来源：<code>wap.blog.tzjrmhe.cn/Article/19352.shtml</code>
 
-### 美股大幅下挫，纳指跌超2%，“七巨头”集体暴跌
+### 苹果iPhone Ultra和iPhone 18 Pro Max五大差异曝光
 
-来源：<code>www.blog.qovfm.cn/Article/details/587359.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/457995.shtml</code>
 
-### 金与正称岸田或可访平壤，但须满足前提条件
+### 津巴布韦全球杰出青年Nyashadzaishe Samukange：老龄化与青年红利并非对立，代际协作是未来关键
 
-来源：<code>www.blog.qovfm.cn/Article/details/4507257.sHtML</code>
-
-### 尼泊尔西部地震已致128人遇难
-
-来源：<code>www.blog.qovfm.cn/Article/details/838103.sHtML</code>
-
-### 拜登称若儿子亨特被判有罪，不会动用总统特权赦免
-
-来源：<code>www.blog.qovfm.cn/Article/details/547904.sHtML</code>
-
-### 华盛顿发生枪击事件，6人受伤含2名儿童
-
-来源：<code>www.blog.qovfm.cn/Article/details/1998.sHtML</code>
-
-### 俄别尔哥罗德州遭袭，致1死6伤
-
-来源：<code>www.blog.qovfm.cn/Article/details/8639.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/5780764.shtml</code>
 
 ## 三、科技产业
 
-### 南共市及联系国发表声明支持玻利维亚总统和政府
+### 消息称红杉资本将收购徕卡相机公司，估值 10 亿欧元并考虑重新上市
 
-来源：<code>www.blog.qovfm.cn/Article/details/3060.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/170655.shtml</code>
 
-### 美发布国安备忘录，要求以色列限期提交“保证书
+### 赛豆科技发布AIVA品牌，AIVA总裁解释品牌命名和LOGO寓意
 
-来源：<code>www.blog.qovfm.cn/Article/details/8141.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/768511.shtml</code>
 
-### 马尔代夫总统再提印军撤离，遭议会空前抵制
+### 消息称蓝色起源拟融资 100 亿美元，成立 25 年首次引入外部投资
 
-来源：<code>www.blog.qovfm.cn/Article/details/2079687.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/2158726.shtml</code>
 
-### 联合国机构暂停在苏丹杰济拉州的人道救援工作
+### 法国率先晋级四强！姆巴佩、登贝莱先后破门，联想AI持续护航世界杯关键战
 
-来源：<code>www.blog.qovfm.cn/Article/details/1621961.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/6040961.shtml</code>
 
-### 乌军总司令首次坦承战事陷入“僵局
+### 小米等国产品牌牵头 50W通用无线快充加快到来
 
-来源：<code>www.blog.qovfm.cn/Article/details/9176.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/609652.shtml</code>
 
-### 波兰防长称正为可能与俄爆发战争做准备
+### 高温侵袭，中国空调“拯救”欧洲人
 
-来源：<code>www.blog.qovfm.cn/Article/details/3387091.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/442664.shtml</code>
 
-### 扎波罗热核电站5号机组转为“冷停堆”模式
+### 奇瑞引望签署深化战略合作协议：目标直指L3、L4自动驾驶
 
-来源：<code>www.blog.qovfm.cn/Article/details/0841930.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/8289.shtml</code>
 
-### 曾曝光波音质检问题的前员工在作证前夕离奇死亡
+### 中央网信办出手整治 AI 应用乱象：清理违法违规信息 600 余万条，华为、阿里加强管控
 
-来源：<code>www.blog.qovfm.cn/Article/details/9626009.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/005430.shtml</code>
 
-### 美媒列数据指《通胀削减法》实施20个月未达拜登目标
+### 订单额涨 5 倍！李开复发布一号位决策AI，给CEO 加个“硅基合伙人”
 
-来源：<code>www.blog.qovfm.cn/Article/details/8403.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/326550.shtml</code>
 
-### 美联航一客机接爆炸威胁，已安全降落
+### Elizabeth Thurbon：中国能源转型正在重塑全球经济竞争力
 
-来源：<code>www.blog.qovfm.cn/Article/details/98082.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/73884.shtml</code>
 
-### 泽连斯基称若有机会乌有权暗杀普京，克宫回应称不可能成功
+### 东风奕派 M8 官宣本月开启预售：展车即将到店，搭载华为乾崑智驾
 
-来源：<code>www.blog.qovfm.cn/Article/details/999673.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/72172.shtml</code>
 
-### 普京出席两艘核潜艇服役仪式，强调加强海上力量建设
+### 超越美国老牌巨头！中国碳化硅20年突围记
 
-来源：<code>www.blog.qovfm.cn/Article/details/247165.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/5987213.shtml</code>
 
-### 沙特经济与规划大臣宣布，世界经济论坛特别会议将于4月在沙特举行
+### 华为Mate 90系列首发鸿蒙7+韬定律麒麟芯：9月登场
 
-来源：<code>www.blog.qovfm.cn/Article/details/391024.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/12023.shtml</code>
 
-### 乌克兰军方称，在单次行动中击落三架俄罗斯先进战机
+### 淘宝闪购高级副总裁郏夹：目前绝大多数电商、即时零售App没有原生AI交互能力，真实消费诉求被压抑
 
-来源：<code>www.blog.qovfm.cn/Article/details/0129222.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/5141712.shtml</code>
 
-### 意大利任命85岁前总理阿马托主导AI政策研究，引发激烈争议
+### 售价 29.99 万元起，全新猛士 M817 开启首批交付
 
-来源：<code>www.blog.qovfm.cn/Article/details/494490.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/82068.shtml</code>
 
-### 联合国官员警告，若伊拉克境内外袭击不断，该国将陷入危险境地
+### 小米17系列销量破500万：国产高端第一梯队！仅次于华为Mate 80系列
 
-来源：<code>www.blog.qovfm.cn/Article/details/9828.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/1304494.shtml</code>
 
-### 菲律宾民用船只向非法“坐滩”军舰补给物资，中国海警作出回应
+### 腾讯游戏发布2026暑期未保专项，升级AI双引擎防沉迷模式
 
-来源：<code>www.blog.qovfm.cn/Article/details/5778.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/158661.shtml</code>
 
-### 海地武装团伙袭击国际机场，联合国计划派遣维和力量介入
+### 全部“转正”：华为鸿蒙 HarmonyOS 6.1 最新支持机型公布
 
-来源：<code>www.blog.qovfm.cn/Article/details/96382.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/92014.shtml</code>
 
-### 以色列对伊朗驻叙利亚使馆发动空袭致7人死亡，引发多国谴责
+### 揭秘OpenAI错综复杂的商业合作网络：几年内背负6650亿美元账单
 
-来源：<code>www.blog.qovfm.cn/Article/details/7110907.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/79703.shtml</code>
 
-### 美国中情局局长称将加大对华情报投入，中国外交部作出回应
+### 中科闻歌登陆港交所，上市首日盘中最高涨幅超105%
 
-来源：<code>www.blog.qovfm.cn/Article/details/4596.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/15704.shtml</code>
 
-### 美朝代表在联合国安理会会议上展开罕见正面交锋
+### 联想集团CFO：3-5年净利润率目标5%以上，长期有望超过8%
 
-来源：<code>www.blog.qovfm.cn/Article/details/1724635.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/15729.shtml</code>
 
-### 爱尔兰外长表示，计划未来数周内正式承认巴勒斯坦国
+### 英伟达、vivo、红杉中国等联合加码B站AI创造公开赛
 
-来源：<code>www.blog.qovfm.cn/Article/details/780501.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/41016.shtml</code>
 
-### 加沙城及加沙北部所有医院均已停止运转
+### 朱共山：全行业零和博弈，结果只能是“泥坑里打架没有赢家”
 
-来源：<code>www.blog.qovfm.cn/Article/details/05864.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/1003.shtml</code>
 
-### 巴勒斯坦总统就“30人死亡”事件发表声明
+### 华为乾崑智驾高阶功能包下月调价，一次性购买恢复至标准价 36000 元
 
-来源：<code>www.blog.qovfm.cn/Article/details/2433225.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/627114.shtml</code>
 
-### 东芝公司即将从东京证券交易所退市
+### 消息称三星显示已获苹果量产认证，将为折叠屏 iPhone 独供 OLED 面板
 
-来源：<code>www.blog.qovfm.cn/Article/details/66213.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/285512.shtml</code>
 
-### 太阳风暴究竟会对地球产生多大影响？
+### 首款三方品牌星闪耳机问世！漫步者EDIFIER Comfo Clip Q2获认证
 
-来源：<code>www.blog.qovfm.cn/Article/details/1049904.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/6195.shtml</code>
 
-### 最新民调显示，美国年轻选民正逐渐疏远拜登，转而支持特朗普
+### 遇见小面万物皆为预制菜？ 探访：明厨遮挡、浇头稀烂、员工避谈，客服曾称“加盟只需准备剪刀”
 
-来源：<code>www.blog.qovfm.cn/Article/details/9705.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/61137.shtml</code>
 
-### 37岁当选爱尔兰总理，创下该国最年轻领导人纪录
+### 曹操出行与May Mobility达成战略合作，CEO龚昕：国际化是自动驾驶业务的重要方向
 
-来源：<code>www.blog.qovfm.cn/Article/details/0497341.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/49563.shtml</code>
 
-### 穆迪下调美国信用评级，背后的原因是什么？
+### 12家AI全军覆没！比利时爆冷被伊朗逼平，世界杯再演算法翻车夜
 
-来源：<code>www.blog.qovfm.cn/Article/details/94410.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/92539.shtml</code>
 
-### 厄瓜多尔宣布进入“国内武装冲突”状态以来，已逮捕6341人
+### 比亚迪称闪充发布后订单爆发式增长
 
-来源：<code>www.blog.qovfm.cn/Article/details/5236.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/3588454.shtml</code>
 
-### 韩媒发现，韩方新闻稿中未提及美方部分内容
+### 小鹏回应山东平度车辆起火：第一时间排查分析事发地车辆数据，未发现车辆热失控相关信息
 
-来源：<code>www.blog.qovfm.cn/Article/details/033628.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/790546.shtml</code>
 
-### 新加坡航空客机迫降事故致2人死亡，波音公司作出回应
+### 科学家首次精确编辑人类胚胎基因，引发“定制婴儿”担忧
 
-来源：<code>www.blog.qovfm.cn/Article/details/6453.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/747480.shtml</code>
 
-### 巴以冲突进入第四天，局势迎来关键转折
+### 算盘打得飞起！为找稀土日本盯上了格林兰岛
 
-来源：<code>www.blog.qovfm.cn/Article/details/943965.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/1473729.shtml</code>
 
-### 在这场巴以冲突中，这一阿拉伯大国正成为重要变量
+### 小红书官宣十二个地方联赛集体入驻，世界杯后持续加码足球
 
-来源：<code>www.blog.qovfm.cn/Article/details/47882.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/428033.shtml</code>
 
-### 苏丹外交部表示，冲突双方领导人会晤已被推迟
+### 解决“成果交付”行业难题 2026美图影像节推出8款AI产品
 
-来源：<code>www.blog.qovfm.cn/Article/details/268822.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/51437.shtml</code>
 
-### 苏丹武装冲突持续，卡萨拉州正式实施宵禁
+### 当合资集体承压，谁找到了转型新路径？
 
-来源：<code>www.blog.qovfm.cn/Article/details/4770314.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/887413.shtml</code>
 
-### 以军坦克包围加沙多家医院，数千被困者断水断粮面临死亡威胁
+### 苹果订单落地 英特尔转型迎来关键助力
 
-来源：<code>www.blog.qovfm.cn/Article/details/693931.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/348742.shtml</code>
 
-### 日本央行时隔17年首次加息，正式结束负利率时代
+### 欧盟拟出台新规，限制微软、谷歌等美国大公司参与敏感云项目招标
 
-来源：<code>www.blog.qovfm.cn/Article/details/906468.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/5990944.shtml</code>
 
-### 从党派分裂到“破碎的英国”——卡梅伦重返政坛的背后
+### 英伟达黄仁勋大赞 SK 海力士：我为 SK 的成功而自豪
 
-来源：<code>www.blog.qovfm.cn/Article/details/288824.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/3055.shtml</code>
 
-### 美股全面上涨，道指与标普再创历史新高，原油高开后走低跌超1%
+### Meta卖算力不能片面解读为“算力过剩”
 
-来源：<code>www.blog.qovfm.cn/Article/details/5239.sHtML</code>
-
-### 美国首位被控“叛国”者正式认罪
-
-来源：<code>www.blog.qovfm.cn/Article/details/8282.sHtML</code>
-
-### 伊朗连环爆炸致53人死亡，当地官员称系恐怖袭击
-
-来源：<code>www.blog.qovfm.cn/Article/details/1487.sHtML</code>
-
-### 最新消息：德国货轮遭击中并起火
-
-来源：<code>www.blog.qovfm.cn/Article/details/6110.sHtML</code>
-
-### 外交部回应美方逮捕所谓中国公民窃密案：将采取必要措施维护权益
-
-来源：<code>www.blog.qovfm.cn/Article/details/191893.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/6803.shtml</code>
 
 ## 四、国际热点
 
-### 美法官裁定，特朗普前顾问班农将于7月1日开始服刑
+### 星海图发起“星途计划”，未来5年投资10亿元做生态
 
-来源：<code>www.blog.qovfm.cn/Article/details/87741.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/14927.shtml</code>
 
-### 美国内部的政治撕裂，已堪比一场内战
+### 特斯拉中国为员工子女设奖学金：考上985、211最高奖5000元
 
-来源：<code>www.blog.qovfm.cn/Article/details/631734.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/600748.shtml</code>
 
-### 德媒称，中欧启动关税磋商，欧洲汽车股应声上涨
+### 神策数据“新三年战略”：发布 Sensors AI ，打造L4级 AI Growth Team
 
-来源：<code>www.blog.qovfm.cn/Article/details/56322.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/971274.shtml</code>
 
-### 美媒报道，美国防部正考虑对伊朗相关目标实施打击
+### 知情人士称小红书被员工举报一事属普通劳资争议，与公司上市进程无关
 
-来源：<code>www.blog.qovfm.cn/Article/details/6956.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/1031.shtml</code>
 
-### 海外媒体称，哈马斯与以色列达成临时停火协议有助缓解多重危机
+### 360发布AI安全报告：漏洞挖掘从模型能力涌现走向智能体工程实战
 
-来源：<code>www.blog.qovfm.cn/Article/details/952171.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/6786943.shtml</code>
 
-### 巴勒斯坦电信公司称，加沙中部及南部通信和互联网服务正逐步恢复
+### 菜鸟成为宝洁全球自动化战略合作伙伴
 
-来源：<code>www.blog.qovfm.cn/Article/details/3311154.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/564767.shtml</code>
 
-### 港媒称，欧盟因技术问题暂停对华WTO诉讼，涉及所谓立陶宛受经济胁迫案
+### 多位汽车博主质疑长城汽车拖欠稿费超过一年
 
-来源：<code>www.blog.qovfm.cn/Article/details/2738514.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/6696182.shtml</code>
 
-### 外交部回应缅甸军方与国内各方战斗是否仍在持续
+### 追赶OpenAI！曝Anthropic正与三星洽谈，拟联手开发自研AI芯片
 
-来源：<code>www.blog.qovfm.cn/Article/details/0343.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/1441.shtml</code>
 
-### 以媒爆料以色列邀请英国前首相出任新职，遭当事人否认
+### 对华禁售有钱也能买到：英伟达Blackwell黑市价格飙升3倍 被热炒超800万
 
-来源：<code>www.blog.qovfm.cn/Article/details/1381021.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/38864.shtml</code>
 
-### 星舰”第二次试射再遭失败，美国载人登月计划也受波及
+### 蚂蚁电竞推出“ANT273PQL PRO”27 英寸显示器：2K 320Hz，底座机械臂需单独购买
 
-来源：<code>www.blog.qovfm.cn/Article/details/894758.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/339230.shtml</code>
 
-### 美国国会再次通过短期支出法案，以避免政府停摆
+### 恋与深空致歉并宣布退出BW展会：全额承担玩家退票损失
 
-来源：<code>www.blog.qovfm.cn/Article/details/622208.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/6865.shtml</code>
 
-### 以色列防长称，除非以方人员获释，否则不会停止拉法军事行动
+### 连续两日成功发射，我国千帆极轨 12 组卫星“上天”
 
-来源：<code>www.blog.qovfm.cn/Article/details/75992.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/72850.shtml</code>
 
-### 以军总参谋长已批准继续展开军事行动
+### 阿维塔二次冲击港股IPO：三年亏损112亿，今年前5个月仅交付2.4万辆
 
-来源：<code>www.blog.qovfm.cn/Article/details/073353.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/90433.shtml</code>
 
-### 红海三艘商船遭导弹袭击，美舰击落来袭无人机
+### 中咨公司宣布战略注资中诚华隆，联合攻坚国产算力自主可控
 
-来源：<code>www.blog.qovfm.cn/Article/details/377982.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/096368.shtml</code>
 
-### 其子突然离世，引发美国社会巨大震动
+### 华为 MatePad Pro Max 旗舰平板确认支持《王者荣耀》144Hz 极致模式
 
-来源：<code>www.blog.qovfm.cn/Article/details/2930.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/43507.shtml</code>
 
-### 朝鲜称通过气球向韩国投放大量废纸和污秽物
+### 比亚迪唐 L 系列迎第五次 OTA 升级：19 项新增功能覆盖续航、辅助驾驶与生态互联
 
-来源：<code>www.blog.qovfm.cn/Article/details/54085.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/7730867.shtml</code>
 
-### 哈马斯下属武装派别称向特拉维夫和耶路撒冷等地发射超百枚火箭弹
+### 9月巅峰对决！华为Mate 90系列迎战iPhone 18 Pro
 
-来源：<code>www.blog.qovfm.cn/Article/details/2703.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/66703.shtml</code>
 
-### 以色列代表公开播放“斩首视频”，泰国抗议称缺乏应有尊重
+### 耐克2026财年第四季度财报，盈利和营收均超出预期
 
-来源：<code>www.blog.qovfm.cn/Article/details/4959170.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/07152.shtml</code>
 
-### 卫星影像揭示美军基地布局，金正恩亲自检视
+### 芯片都要220元整机却只卖175元！X95 Pro掌机被指虚假宣传：把消费者当韭菜割
 
-来源：<code>www.blog.qovfm.cn/Article/details/929317.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/8526.shtml</code>
 
-### 美军机在海上失事坠毁，5具遗体已寻获，打捞现场画面公开
+### 港商观察 | 3000亿“智谱股价谋杀案”背后，谁是凶手？
 
-来源：<code>www.blog.qovfm.cn/Article/details/8094.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/8459817.shtml</code>
 
-### 拜登到访前夕，美媒披露越南秘密采购俄制军备
+### 安卓阵营首款阔折叠手机要来了 三星新品发布会定档7月22日
 
-来源：<code>www.blog.qovfm.cn/Article/details/53632.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/0525.shtml</code>
 
-### 哈萨克斯坦阿拉木图市旅店突发火灾，致13人丧生
+### Model Y的用车总成本比丰田RAV4还低
 
-来源：<code>www.blog.qovfm.cn/Article/details/60420.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/150053.shtml</code>
 
-### 美最高法院作出裁决，特朗普前助理被判入狱
+### 英国海上贸易行动中心收到也门海岸附近船只遭袭报告
 
-来源：<code>www.blog.qovfm.cn/Article/details/2588571.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/092753.shtml</code>
 
-### 巴以首度达成停火协议，长期和平是否可期
+### 马斯克 SpaceX 获澳大利亚女首富青睐，消息称对方持有超 10 亿美元股权
 
-来源：<code>www.blog.qovfm.cn/Article/details/3569329.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/58256.shtml</code>
 
-### 美首度中止对以弹药输送，高校示威是否奏效
+### 余承东参与设计：华为汽车顶棚外观专利设计曝光，可存放投影幕布
 
-来源：<code>www.blog.qovfm.cn/Article/details/61753.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/3209.shtml</code>
 
-### 法国拟向乌派遣首批2000人——俄情报局长透露
+### 中兴通讯发布首款 FTTR 视频融合网关，集成路由器、机顶盒功能
 
-来源：<code>www.blog.qovfm.cn/Article/details/6453626.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/4387.shtml</code>
 
-### 伊朗新型驱逐舰照片由伊媒首度公开
+### 消息称 Deepseek 入局AI芯片自研 降低对英伟达等公司依赖
 
-来源：<code>www.blog.qovfm.cn/Article/details/01042.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/2622481.shtml</code>
 
-### 俄外长拉夫罗夫：愿和谈但不停火
+### 苹果美国关闭三家 Apple Store，部分门店员工遭“区别对待”引争议
 
-来源：<code>www.blog.qovfm.cn/Article/details/67357.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/0678870.shtml</code>
 
-### 佩斯科夫呼吁就载有乌战俘运输机坠毁事件展开国际调查
+### 网传黄仁勋闭门讲话录音泄露：中国会赢AI竞争 美国芯片限制太愚蠢助华为逆袭
 
-来源：<code>www.blog.qovfm.cn/Article/details/4412.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/0290193.shtml</code>
 
-### 以色列袭伊朗搅动市场，A股石油板块涨近3%，黄金美元冲高回落
+### 远景宣布Mission Gobi计划：2030年建设5GW绿色AI算力中心
 
-来源：<code>www.blog.qovfm.cn/Article/details/6431.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/4129.shtml</code>
 
-### 墨西哥试验蟋蟀制饼干，应对儿童营养失衡
+### 笔记本电脑的寿命到底多长：答案揭晓
 
-来源：<code>www.blog.qovfm.cn/Article/details/6608026.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/47230.shtml</code>
 
-### 美密歇根州突发爆炸，原因仍在查
+### 微信正与手机厂商合作推出A2A助手：可语音发消息、视频通话
 
-来源：<code>www.blog.qovfm.cn/Article/details/449659.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/2313767.shtml</code>
 
-### 夏威夷基拉韦厄火山喷发
+### 曝鸿蒙智行享界 G9 研发时长超 2 年，华为智选车产品总监彭磊揭秘新车命名含义
 
-来源：<code>www.blog.qovfm.cn/Article/details/7455.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/78751.shtml</code>
 
-### 俄有轨电车相撞致1死百余伤
+### 4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单
 
-来源：<code>www.blog.qovfm.cn/Article/details/15466.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/365320.shtml</code>
 
-### 斯里兰卡极端天气已致至少10人死亡
+### “华彰牌”换“享界牌”？消息称享界正在为“渐进式独立”做准备
 
-来源：<code>www.blog.qovfm.cn/Article/details/7161624.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/30785.shtml</code>
 
-### 投资大师查理·芒格离世，华尔街纷纷悼念
+### vivo X Fold6，蓝洞配色你心动了吗？
 
-来源：<code>www.blog.qovfm.cn/Article/details/8929.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/05254.shtml</code>
 
-### 中国驻瑞典使馆再发提醒：谨防虚假恶意电话
+### 长安汽车赵非：堆料式竞争已触及天花板，现在比拼的是产品、服务，以及服务带来的情绪价值
 
-来源：<code>www.blog.qovfm.cn/Article/details/4969774.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/6393038.shtml</code>
 
-### 拜登评防长擅离岗位：奥斯汀判断有误
+### 格力CMO高考祝词：金榜题名，“荔刻”高中
 
-来源：<code>www.blog.qovfm.cn/Article/details/8255981.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/22738.shtml</code>
 
-### 菲军没钱买F-16，却还想采购潜艇
+### 优必选周剑谈1.24亿招首席科学家：要胸中有一团火，明知不可而为之
 
-来源：<code>www.blog.qovfm.cn/Article/details/690548.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/58034.shtml</code>
 
-### 孟加拉国首家孔子课堂正式启动
+### 单联瑜回应友商“暗讽”小米空调：行业需要清朗环境，用户会用脚投票
 
-来源：<code>www.blog.qovfm.cn/Article/details/56710.sHtML</code>
-
-### 英王储威廉：凯特王妃状况正在改善
-
-来源：<code>www.blog.qovfm.cn/Article/details/180797.sHtML</code>
-
-### 美议员批泽连斯基：要钱时起码该穿西装打领带
-
-来源：<code>www.blog.qovfm.cn/Article/details/8752002.sHtML</code>
-
-### 哥伦比亚警方直升机坠毁，4人死亡
-
-来源：<code>www.blog.qovfm.cn/Article/details/98217.sHtML</code>
-
-### 泽连斯基访以行程外泄，直言非常失望
-
-来源：<code>www.blog.qovfm.cn/Article/details/598208.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/9888903.shtml</code>
 
 ## 五、文体娱乐
 
-### 厄瓜多尔杜兰市遭武装袭击，6死6伤
+### Sebastian Buckup：中国将在全球绿色转型中发挥关键作用
 
-来源：<code>www.blog.qovfm.cn/Article/details/2027423.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/4733288.shtml</code>
 
-### 泽连斯基否认战事陷僵局，促盟友加强乌防空
+### SpaceX 财报仅通过官网与 X 平台发布，不再使用通讯社
 
-来源：<code>www.blog.qovfm.cn/Article/details/61143.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/23399.shtml</code>
 
-### 普京：俄暂无核威胁需应对
+### 广汽传祺两款MPV新车M8、E8焕新上市，正式推出“祺享计划”
 
-来源：<code>www.blog.qovfm.cn/Article/details/0232.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/16482.shtml</code>
 
-### 智利参与南美航空客机急降事件调查
+### 三星加速 One UI 8.5 普及，Galaxy A、M 系列手机开始推送
 
-来源：<code>www.blog.qovfm.cn/Article/details/77032.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/8694.shtml</code>
 
-### 美政府禁止波音增产737 MAX
+### 曝华为 Pura X Max 系列横阔折手机销量已破 50 万台，新机售价 10999 元起
 
-来源：<code>www.blog.qovfm.cn/Article/details/84184.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/49727.shtml</code>
 
-### 一系列蝴蝶效应发酵，部分波及中国
+### 对话岚图卢放：开放的生态是建立在强大的自研能力基础上
 
-来源：<code>www.blog.qovfm.cn/Article/details/3805329.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/0773.shtml</code>
 
-### 以总理强硬宣称：将全力摧毁哈马斯
+### 抖音商城618数据：超12万商家直播成交额同比增长翻倍
 
-来源：<code>www.blog.qovfm.cn/Article/details/036791.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/058046.shtml</code>
 
-### 以军称已包围杰巴利耶难民营，将深入打击
+### 从走出去到走进去，华为全球生态助力伙伴出海与出境双向增长
 
-来源：<code>www.blog.qovfm.cn/Article/details/167686.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/5477.shtml</code>
 
-### 卢旺达东部翻船事故致14人死亡
+### 消息称特斯拉三代擎天柱人形机器人初步定型，马斯克放话达不成产能目标就开掉整个采购团队
 
-来源：<code>www.blog.qovfm.cn/Article/details/9500703.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/8944285.shtml</code>
 
-### 密歇根州高院驳回落选资格诉讼，特朗普初选障碍清除
+### 总统打了电话，FIFA暂缓禁赛，东道主还是1：4出局：9家AI早就押中了比利时
 
-来源：<code>www.blog.qovfm.cn/Article/details/97664.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/36530.shtml</code>
 
-### 他扬言将废除这一对华反制机制
+### 走进光影，把一座山、一条河、一面城墙，变成“能出圈”的夜游舞台
 
-来源：<code>www.blog.qovfm.cn/Article/details/5721158.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/6995.shtml</code>
 
-### 墨西哥宣布撤回全部驻厄外交人员及家属
+### 荣耀 Play10 标准版、Play11 Plus 新机上市：1399/2199 元起
 
-来源：<code>www.blog.qovfm.cn/Article/details/0583.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/819735.shtml</code>
 
-### 土总统埃尔多安与阿联酋总统穆罕默德通话
+### 辅助驾驶进入“责任竞争”阶段，兜底机制需要看清细节
 
-来源：<code>www.blog.qovfm.cn/Article/details/20889.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/176135.shtml</code>
 
-### 马克·德雷克福德正式卸任威尔士首席大臣
+### 华为凌霄子母路由 Q7 电线版开售，1219 元起
 
-来源：<code>www.blog.qovfm.cn/Article/details/90589.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/1520.shtml</code>
 
-### 朝鲜罕见公开报道代表团访伊
+### 科梁信息港股IPO：递表前夕大批战投清仓退出、关联方突击入股 反向持股海外核心供应商 现金流持续波动
 
-来源：<code>www.blog.qovfm.cn/Article/details/0596020.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/05838.shtml</code>
 
-### 国际油价创近两个月新高，后市或仍有上行空间
+### 上海网信办：上海携程商务有限公司未落实数据出境安全评估等要求，予以罚款1000万元
 
-来源：<code>www.blog.qovfm.cn/Article/details/5606.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/243044.shtml</code>
 
-### 泰国曼谷市中心商场发生枪击，多人死伤
+### 驰援南宁、贵港，阿里巴巴捐赠运送第一批物资
 
-来源：<code>www.blog.qovfm.cn/Article/details/4449.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/378094.shtml</code>
 
-### 美驻华大使伯恩斯：已与中方启动磋商
+### 银行界争聘首席AI官 年薪上看350万美元但该职位寿命可能有限
 
-来源：<code>www.blog.qovfm.cn/Article/details/8442.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/5484676.shtml</code>
 
-### 美对外军售去年总额达2380亿美元
+### 华为nova 16系列支持5A速度！传输、流畅度领先友商17 Pro
 
-来源：<code>www.blog.qovfm.cn/Article/details/5556.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/53904.shtml</code>
 
-### 波音737 MAX 9舱门脱落，专家分析三种可能
+### 消息称三星 Galaxy Z 8 系列折叠屏手机今年出货目标降至 500~600 万部
 
-来源：<code>www.blog.qovfm.cn/Article/details/87756.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/37748.shtml</code>
 
-### 乌军方否认美制艾布拉姆斯坦克撤出前线
+### 拼多多雄安公司最新进展：首批150名新员工已入职
 
-来源：<code>www.blog.qovfm.cn/Article/details/98841.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/188405.shtml</code>
 
-### 以总理内塔尼亚胡回应与哈马斯是否谈妥
+### 苹果今年最重磅的新品！折叠屏iPhone面板开始量产
 
-来源：<code>www.blog.qovfm.cn/Article/details/6198588.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/0582.shtml</code>
 
-### 丹麦终止北溪案调查，俄批荒谬
+### 比亚迪何志奇谈“新能源车能不能涉水”：纯电动车没有发动机进排气管，理论上能力优于燃油车
 
-来源：<code>www.blog.qovfm.cn/Article/details/89400.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/4631.shtml</code>
 
-### 热议！4000亿巨头曝出最新丑闻
+### SpaceX抹去跌幅转为上涨 市值在2万亿美元附近波动
 
-来源：<code>www.blog.qovfm.cn/Article/details/8174.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/34866.shtml</code>
 
-### 台湾地区的“星盾”服务终止运营，马斯克遭追问背后原因。
+### 比亚迪、华为引望都已推出智驾兜底 蔚来为什么没跟进？李斌回应
 
-来源：<code>www.blog.qovfm.cn/Article/details/188839.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/24737.shtml</code>
 
-### 日本首相对金正恩表达感谢之意。
+### 不只 Pura 90、nova 16：华为 Mate 80 等系列机型将升级支持星闪电竞专链功能
 
-来源：<code>www.blog.qovfm.cn/Article/details/744152.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/72726.shtml</code>
 
-### 澳大利亚参与美日联合军演，或将加剧亚太地区安全局势紧张。
+### 全球贸易：开局保持韧性 不确定性上升
 
-来源：<code>www.blog.qovfm.cn/Article/details/82150.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/61065.shtml</code>
 
-### 以色列国防部长称地面军事行动已进入新阶段。
+### 不拼网速拼覆盖 6G将带来三大产业机遇
 
-来源：<code>www.blog.qovfm.cn/Article/details/5779.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/62368.shtml</code>
 
-### 美国部分政客对海底光缆的过度关注，再次暴露其对华焦虑心态。
+### 月之暗面B端负责人黄震昕：中国模型有望年内达Fable级水平，AI带来生产力质变
 
-来源：<code>www.blog.qovfm.cn/Article/details/721031.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/9714370.shtml</code>
 
-### 普京签署法令，授权动用美国在俄资产以弥补俄方损失。
+### 比亚迪汽车携手电影《小黄人与大怪兽》，智趣同萌开启暑期欢乐之旅
 
-来源：<code>www.blog.qovfm.cn/Article/details/17193.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/505713.shtml</code>
 
-### 印度中央邦发生一起车祸，造成5人死亡、11人受伤。
+### 6天不间断测试告诉你到底有多省电！米家空调巨省电大1.5匹评测：制冷峰值功率不超过500W
 
-来源：<code>www.blog.qovfm.cn/Article/details/83565.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/5321.shtml</code>
 
-### 美国防长奥斯汀计划本月29日返岗，医生称其康复前景乐观。
+### 从187亿到1万亿：马斯克要用五年“再造50个SpaceX”
 
-来源：<code>www.blog.qovfm.cn/Article/details/6400647.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/2074131.shtml</code>
 
-### 印度总理莫迪发表演讲，宣布在选举中获胜。
+### “利用社交媒体操纵股价”  香橼研究创始人被判证券欺诈罪
 
-来源：<code>www.blog.qovfm.cn/Article/details/90395.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/1164231.shtml</code>
 
-### 乌克兰一座240米高电视塔遭俄军袭击，影响防空通信系统。
+### 传美团限制业务团队使用豆包 官方暂无回应
 
-来源：<code>www.blog.qovfm.cn/Article/details/996228.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/8652.shtml</code>
 
-### 险情突发：一架飞机在8分钟内骤降8500多米。
+### 华为乾崑满配上身！猎装轿跑启境GT7将于6月26日上市
 
-来源：<code>www.blog.qovfm.cn/Article/details/460214.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/0751.shtml</code>
 
-### 印度考虑更改国名，背后有何考量？
+### Babycare、好奇发文：恳请相关部门及权威机构尽快公布检测结果
 
-来源：<code>www.blog.qovfm.cn/Article/details/166562.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/5158.shtml</code>
 
-### 美国得州发生枪击事件，具体伤亡情况尚不明确。
+### 22岁北大本科生担纲智源研究院中心负责人，主攻世界模型
 
-来源：<code>www.blog.qovfm.cn/Article/details/569288.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/9485.shtml</code>
 
-### 俄罗斯总统普京签署命令，新设列宁格勒军区和莫斯科军区。
+### 百度网盘 618 探底再来：SVIP 超级会员 13.5 元 / 月、162 元 / 年
 
-来源：<code>www.blog.qovfm.cn/Article/details/8184.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/3562.shtml</code>
 
-### 美联储褐皮书显示经济温和增长，但前景预期趋于悲观。
+### 追觅俞浩内部发言回应外界传闻：精力必须100%放在技术研发和产品上
 
-来源：<code>www.blog.qovfm.cn/Article/details/741122.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/5370.shtml</code>
 
-### 14日美元汇率出现下跌走势。
+### Anthropic 将向欧盟开放其先进模型 Mythos 的访问权限
 
-来源：<code>www.blog.qovfm.cn/Article/details/0945.sHtML</code>
-
-### 中国对榴莲需求旺盛，为东南亚国家带来显著经济利好。
-
-来源：<code>www.blog.qovfm.cn/Article/details/6093.sHtML</code>
-
-### 朝中社报道：金正恩与国庆75周年庆祝活动参与者合影留念。
-
-来源：<code>www.blog.qovfm.cn/Article/details/488405.sHtML</code>
-
-### 美国纽约一地铁站突发枪击案，已致1死5伤。
-
-来源：<code>www.blog.qovfm.cn/Article/details/66940.sHtML</code>
-
-### 以军对加沙一处难民营学校发动袭击，造成至少100人死亡。
-
-来源：<code>www.blog.qovfm.cn/Article/details/7506421.sHtML</code>
+来源：<code>wap.blog.ls288.cn/Article/24572.shtml</code>
 
 ## **AI Builders Digest** | 每日06:00自动播报 | 数据来源：新浪财经、公开媒体报道
 
-*报告生成时间：2026年07月05日19时02分30秒*
+*报告生成时间：2026年07月13日00时44分37秒*
 
 *数据来源：新浪财经、公开媒体报道*
